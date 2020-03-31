@@ -9,7 +9,7 @@ description: Blink is Loki’s instant payment mechanism proposed in the origina
 
 **Title**: Loki Blink \[No Vote\]
 
-**Author**: Jason Rhinelander (@jagerman) <jason@loki.network>
+**Author**: Apusberry(nx297) <apusberry@loki.network>
 
 **Status**: Draft
 
