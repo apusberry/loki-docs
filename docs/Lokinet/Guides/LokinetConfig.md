@@ -2,7 +2,6 @@ title: Loki Documentation | Lokinet Configuration
 description: This guide walks you through the steps to edit your Lokinet config file. The guide shows the different config files and their associated sections, keys and values.
 
 
-
 # Lokinet config files
 
 This guide shows the different config files and their associated sections, keys and values.
