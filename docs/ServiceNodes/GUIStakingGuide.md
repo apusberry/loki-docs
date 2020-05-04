@@ -31,4 +31,5 @@ Also, this best done with a primary wallet address that is **not receiving minin
 
 5) Congratulations, you are now staking!
 
-If you have questions or need help with this guide feel free to reach out to us on [Discord](https://discordapp.com/invite/67GXfD6) or [Telegram](https://t.me/LokiCommunity).
+If you have questions or need help with this guide feel free to reach out to us on [Discord](https://discordapp.com/invite/67GXfD6) or [Telegram](https://t.me/LokiCommunity)
+
